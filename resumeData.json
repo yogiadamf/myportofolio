@@ -1,0 +1,187 @@
+{
+  "main": {
+    "name":"Welcome To My Personal Portofolio",
+    "description":"Hello, My name is Yogi Adam Firdaus i'm a web development and I use react and laravel framework to develop website. This project is a my personal portofolio that can be used as the project home page or resume page",
+    "image":"fotoprofil.jpg",
+    "bio":"Hi, I’m Yogi Adam Firdaus. I’m interested in Software development, web development and mobile app development. I’m currently learning python, HTML, ReactJs, Laravel Framework, Flutter Framework. I’m looking to collaborate on my project",
+    "contactmessage":"Contact message by email drop here",
+    "email": "yogiadamf@gmail.com",
+    "phone": "+6281515204215",
+    "github":"https://github.com/yogiadamf",
+    "project":"https://github.com/yogiadamf?tab=repositories",
+    "address":{
+      "street":"Jl.Kartini RT.09/RW.03, Pohbogo",
+      "city":"Balen,Bojonegoro",
+      "state":"Indonesia",
+      "zip": "62182"
+    },
+    "website": "",
+    "resumedownload":"https://drive.google.com/drive/folders/14hNZkA4Nk0Esp_gBkNeG5ZV7atFR44xS?usp=sharing",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https:www.facebook.com/yogiadamf",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"http://twitter.com/yogiadamf19",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://id.linkedin.com/in/yogi-adam-firdaus-9bb34415b",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/yogiadamfirdaus/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/yogiadamf",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"",
+    "education":[
+      {
+        "school":"Universitas Internasional Semen Indonesia",
+        "degree":"Informatics Engineering",
+        "graduated":"Desember 2021",
+        "description":"GDP : 3.43"
+      },
+      {
+        "school":"SMA Negri 1 Sugihwaras",
+        "degree":"Sains",
+        "graduated":"Juli 2017",
+        "description":"I achieved top best 3 ranking in school"
+      }
+    ],
+    "work":[
+      {
+        "company":"Pelatihan IT Fundamentals oleh Cisco",
+        "title":"IT Fundamentals ",
+        "years":"Agutus 2021 – Sep 2021",
+        "description":"Pelatihan di ikuti total 260 peserta dibagi ke beberapa kampus penyelenggara, saya mengikuti pelatihan di kampus UISI dengan 22 peserta."
+      },
+      {
+        "company":"Develop website ceteread untuk PT Nahla Citra Mulia Group",
+        "title":"IT Specialist ",
+        "years":"Agutus 2020 – Sep 2020",
+        "description":"Develop website terdiri dari 5 orang, saya bertugas sebagai programmer dan desain database dari website"
+      },
+      {
+        "company":"Implementasi dan Desain Jaringan CV. Barokah ZA",
+        "title":"Networking",
+        "years":"Januari 2020 – Februari 2020",
+        "description":"Sebagai ketua dengan anggota 3 orang, melakukan pemasangan dan desain jaringan di CV. Barokah ZA"
+      }
+    ],
+    "organization":[
+      {
+        "company":"Panitia Seminar Pelatihan Pasar Modal",
+        "title":"Ketua Panitia Perkap ",
+        "years":"Juli 2019",
+        "description":"Ketua dari tim panitia seksi perlengkapan dengan anggota 5 orang panitia. Serta berkontribusi dengan rekan tim lainya untuk menerapkan stragi promosi acara "
+      },
+      {
+        "company":"Karang Taruna Desa Pohbogo",
+        "title":"Sekretaris ",
+        "years":"Januarti 2018 – Januari 2020",
+        "description":"Terlibat dalam membuat rancagan acara kegiatan 17 agustusan bagi warga desa pohbogo serta melakukan negosiasi dengan pihak pihak sponsorhip untuk meningkatkan kemeriahan acara 17 agustusan"
+      },
+      {
+        "company":"Panita Lomba UISI Logic Competition (ULC) ",
+        "title":"Panitia Acara",
+        "years":"Januarti 2018",
+        "description":"Anggota dari tim panitia acara ULC yang terdiri dari 6 orang yang bertugas mengatur jalanya acara mulai dari persiapan hingga acara selesai dan menjalin komunikasi dengan pihak penyelenggara "
+      }
+    ],
+    "skills":[
+      {
+        "name":"Flutter",
+        "level":"60%"
+      },
+      {
+        "name":"Laravel",
+        "level":"75%"
+      },
+      {
+        "name":"Python",
+        "level":"60%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"40%"
+      },
+      {
+        "name":"CSS",
+        "level":"70%"
+      },
+      {
+        "name":"PHP",
+        "level":"80%"
+      },
+      {
+        "name":"JAVA",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Website Reservasi Tempat Caffe Sloor.in",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"01.png",
+        "url":""
+      },
+      {
+        "title":"Klasifikasi Rambu Lalu Lintas Dengan Deep Learning",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"02.png",
+        "url":""
+      },
+      {
+        "title":"Sistem Temu Kembali Penjarian Judul Skripsi",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"03.png",
+        "url":""
+      },
+      {
+        "title":"Pembuatan Aplikasi Cita-citaku",
+        "category":"A React based resume website template",
+        "image":"04.png",
+        "url":""
+      },
+      {
+        "title":"IOT Tongkat Pendeteksi Halangan Untuk Tuna Netra",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"05.png",
+        "url":""
+      },
+      {
+        "title":"Desain UI & UX Aplikasi MyUisi",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"06.png",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"Website Centeread Untuk PT. Nahla Citra Mulia Group",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"07.png",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Perancagan dan Implementasi Jaringan CV. Barokah ZA",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"08.png",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      }
+    ]
+  }
+}
